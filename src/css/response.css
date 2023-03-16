@@ -1,0 +1,32 @@
+@media (max-width: 376px) {
+
+body{
+   width: 359px;
+   margin: 0 auto;
+}
+
+body > main{
+   margin: 0 auto;
+   padding-top: 100px;
+   width: 358px;
+   height: 800px;
+
+}
+
+div{
+   margin: auto;
+   width: 310px;
+}
+
+img{
+   width: 270px;
+}
+
+p{
+   font-size: 14px;
+}
+
+
+
+    
+}
